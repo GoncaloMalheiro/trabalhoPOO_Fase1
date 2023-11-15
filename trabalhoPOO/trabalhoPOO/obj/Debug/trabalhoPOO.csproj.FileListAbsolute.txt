@@ -1,0 +1,4 @@
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\trabalhoPOO_26064_Fase1\trabalhoPOO\trabalhoPOO\obj\Debug\trabalhoPOO.csproj.AssemblyReference.cache
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\trabalhoPOO_26064_Fase1\trabalhoPOO\trabalhoPOO\obj\Debug\trabalhoPOO.csproj.CoreCompileInputs.cache
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\26064_Pratica_POO_IM_Fase1\trabalhoPOO\trabalhoPOO\obj\Debug\trabalhoPOO.csproj.AssemblyReference.cache
+C:\Users\malhe\OneDrive\Ambiente de Trabalho\26064_Pratica_POO_IM_Fase1\trabalhoPOO\trabalhoPOO\obj\Debug\trabalhoPOO.csproj.CoreCompileInputs.cache
